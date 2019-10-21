@@ -1,4 +1,4 @@
-# Incompany Trainning App
+# BaseApi-CI3
 An use example of Codeigniter 3 Framework to build an API.
 
 ## Getting Started
