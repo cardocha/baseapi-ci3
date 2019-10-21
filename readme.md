@@ -2,7 +2,7 @@
 An use example of Codeigniter 3 Framework to build an API.
 
 ## Getting Started
-The project is a Codeigniter 3 project
+https://codeigniter.com/user_guide/index.html
 
 ### Prerequisites
 
